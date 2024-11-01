@@ -1,0 +1,75 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wpobfuscator\n"
+"POT-Creation-Date: 2014-11-25 15:39+0100\n"
+"PO-Revision-Date: 2014-11-25 15:39+0100\n"
+"Last-Translator: \n"
+"Language-Team: Seraum <contact@seraum.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.10\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: _e;__;_e();__()\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-SearchPath-1: ../..\n"
+
+#: ../../tags/0.4/wpobfuscator.php:105 ../../trunk/wpobfuscator.php:134
+#: ../wpobfuscator.php:134
+msgid "Obfuscation depth :"
+msgstr "Obfuscation depth :"
+
+#: ../../tags/0.4/wpobfuscator.php:117 ../../trunk/wpobfuscator.php:146
+#: ../wpobfuscator.php:146
+msgid "Save"
+msgstr "Save"
+
+#: ../../trunk/wpobfuscator.php:121 ../wpobfuscator.php:121
+msgid "Obfuscate"
+msgstr "Obfuscate"
+
+#: ../../trunk/wpobfuscator.php:122 ../wpobfuscator.php:122
+msgid ""
+"Warning : your wp-config.php file is in clear text, a hacker can easily read "
+"it ! Please, save your wp-config.php file before to obfuscate it !"
+msgstr ""
+"Warning : your wp-config.php file is in clear text, a hacker can easily read "
+"it ! Please, save your wp-config.php file before to obfuscate it !"
+
+#: ../../trunk/wpobfuscator.php:123 ../wpobfuscator.php:123
+msgid "That's your current clear text wp-config.php file :"
+msgstr "That's your current clear text wp-config.php file :"
+
+#: ../../trunk/wpobfuscator.php:127 ../wpobfuscator.php:127
+msgid "Deobfuscate"
+msgstr "Deobfuscate"
+
+#: ../../trunk/wpobfuscator.php:128 ../wpobfuscator.php:128
+msgid "Congrats ! Your wp-config.php file is obfuscated !"
+msgstr "Congrats ! Your wp-config.php file is obfuscated !"
+
+#: ../../trunk/wpobfuscator.php:130 ../wpobfuscator.php:130
+msgid "That's your new obfuscated wp-config.php file :"
+msgstr "That's your new obfuscated wp-config.php file :"
+
+#: ../../trunk/wpobfuscator.php:196 ../wpobfuscator.php:196
+msgid ""
+"Warning : your wp-config.php file is in clear text, a hacker can easily read "
+"it !"
+msgstr ""
+"Warning : your wp-config.php file is in clear text, a hacker can easily read "
+"it !"
+
+#: ../../trunk/wpobfuscator.php:198 ../wpobfuscator.php:198
+msgid "Obfuscate your wp-config.php file now !"
+msgstr "Obfuscate your wp-config.php file now !"
+
+#: ../../trunk/wpobfuscator.php:205 ../wpobfuscator.php:205
+msgid "Settings"
+msgstr "Settings"
+
+#~ msgid "red"
+#~ msgstr "red"
